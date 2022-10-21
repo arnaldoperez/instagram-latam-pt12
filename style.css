@@ -1,0 +1,8 @@
+.dropdown-toggle::after{
+    color:white
+}
+
+.menu{
+    width: 100%;
+    display: flex;
+}
